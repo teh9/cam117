@@ -1,0 +1,17 @@
+{
+  "name": "กล้องบอก กม. ทล.117 ตอน 1",
+  "short_name": "กล้อง กม.117",
+  "description": "ถ่ายรูปพร้อมสแตมป์ กม. LT/RT จากแนวศูนย์กลางทาง ทล.117 ตอน 1",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "lang": "th",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
